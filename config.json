@@ -13,7 +13,7 @@
     "PLATFORM": "PM3GENERIC",
     "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM_EXTRAS": "",
-    "//": "parameter for all firmware, empty(default), 256 or 512",
+    "512": "parameter for all firmware, empty(default), 256 or 512",
     "PLATFORM_SIZE": "",
     "//": "extra options will be defined as xxx=1",
     "extraOptions": [],
