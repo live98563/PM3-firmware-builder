@@ -2,7 +2,6 @@
     "//": "You will get len(refs) * len(standaloneList) firmwares",
     "refs": [
         "master",
-        "v4.15864",
         "专用定制版"
     ],
     "standaloneList": [
@@ -13,7 +12,7 @@
     "PLATFORM": "PM3GENERIC",
     "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM_EXTRAS": "",
-    "512": "parameter for all firmware, empty(default), 256 or 512",
+    "256": "parameter for all firmware, empty(default), 256 or 512",
     "PLATFORM_SIZE": "",
     "//": "extra options will be defined as xxx=1",
     "extraOptions": [],
